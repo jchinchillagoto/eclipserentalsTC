@@ -2,11 +2,19 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: October 20, 2026
 
-By opting in to receive SMS/text messages from Eclipse Rentals, you agree to the following Terms and Conditions.
+By providing your mobile number and opting in to receive SMS messages, you agree to receive customer care messages from Occulus Films, LLC.
+
+Message frequency may vary. On average, 1-2 messages per month.
+
+Message and data rates may apply.
+
+For help, reply HELP. To opt out, reply STOP.
+
+Privacy Policy: https://github.com/jchinchillagoto/eclipserentalsPP
 
 Business Information
 
-Eclipse Rentals
+Occulus Films, LLC
 7600 North 16th Street, Suite E115
 Phoenix, AZ 85020
 Email: nick@occulusfilms.com
@@ -14,7 +22,7 @@ Phone: +1 (480) 421-8043
 
 Program Description
 
-Eclipse Rentals sends customer care SMS messages related to:
+Occulus Films, LLC sends customer care SMS messages related to:
 
 Service inquiries and customer support
 Scheduling updates and appointment confirmations
@@ -31,7 +39,7 @@ Message and data rates may apply depending on your mobile carrier and service pl
 
 Opt-In
 
-By providing your mobile number and opting in, you consent to receive recurring SMS messages from Eclipse Rentals.
+By providing your mobile number and opting in, you consent to receive recurring SMS messages from Occulus Films, LLC.
 
 Opt-Out
 
@@ -57,11 +65,11 @@ Your use of our SMS services is also governed by our Privacy Policy.
 
 Changes to Terms
 
-Eclipse Rentals reserves the right to modify these Terms and Conditions at any time. Updates will become effective upon posting with a revised effective date.
+Occulus Films, LLC reserves the right to modify these Terms and Conditions at any time. Updates will become effective upon posting with a revised effective date.
 
 Contact Information
 
-Eclipse Rentals
+Occulus Films, LLC
 7600 North 16th Street, Suite E115
 Phoenix, AZ 85020
 Email: nick@occulusfilms.com
